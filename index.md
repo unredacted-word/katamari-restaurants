@@ -1,7 +1,7 @@
 ---
 layout: default
 bodyClass: page-home
-title: Katamari Restaurants of Cambridge and Somerville
+title: Lost Restaurants of Cambridge and Somerville
 displayTitle: " "
 excerpt: >
   A summary of the running loss of local restaurants to deep-pocketed private 
@@ -15,7 +15,7 @@ style: |
   }
 ---
 
-# Katamari Restaurants of Cambridge and Somerville
+# Lost Restaurants of Cambridge and Somerville
 
 _A summary of the running loss of local restaurants to deep-pocketed private 
 equity and national chains._

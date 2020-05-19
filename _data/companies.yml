@@ -11,8 +11,10 @@ bergamot:
   name: "Bergamot"
   date: 2020-05-17 20:38:00
   url: https://www.instagram.com/p/CAP9JkCjZ38/
+  replacement: "FAB Beer"
   notes: >
-    Bergamot has closed permanantly. FAB Brewing has taken its place.
+    Bergamot has closed permanantly. Locally-owned FAB Beer has taken its
+    place.
 
 dante:
   name: "Restaurant Dante"
