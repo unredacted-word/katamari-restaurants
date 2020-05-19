@@ -1,0 +1,33 @@
+{% assign company = site.data.companies[include.key] %}
+
+<tr>
+  <td>
+    {% if company.name %}
+      {{ company.name }}
+    {% endif %}
+  </td>
+  <td>
+    {% if company.date %}
+      {{ company.date | date: "%B %-d, %Y" | default: "N/A" }}
+    {% endif %}
+  </td>
+  <td>
+    {% if company.url %}
+      <a href="{{ company.url }}" rel="external">
+        link
+      </a>
+    {% else %}
+     &nbsp;
+    {% endif %}
+  </td>
+  <td>
+    {% if company.replacement %}
+      {{ company.replacement }}
+    {% endif %}
+  </td>
+  <td>
+    {% if company.notes %}
+      {{ company.notes }}
+    {% endif %}
+  </td>
+</tr>

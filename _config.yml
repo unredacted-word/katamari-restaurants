@@ -1,0 +1,30 @@
+# Site settings
+title: Katamari Restaurants | Cambridge and Somerville
+email: katamari-restaurants@unredacted-word.pub
+baseurl: ""
+url: "https://unredacted-word.pub"
+timezone: "America/New_York"
+description: "A summary of the running loss of local restaurants to deep-pocketed private equity and national chains."
+
+
+# Build settings
+permalink: pretty
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CNAME
+  - LICENSE
+  - README.md
+

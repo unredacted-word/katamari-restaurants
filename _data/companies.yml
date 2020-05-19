@@ -1,0 +1,44 @@
+baobao:
+  name: "Toms BaoBao"
+  date: 2020-01-11 14:30:00
+  url: https://www.thecrimson.com/article/2020/1/8/toms-baobao-leaves-square/
+  notes: >
+    <q>Tom’s BaoBao — the fast-casual restaurant serving baozi, or Chinese
+    steamed buns, on Winthrop Street — has closed its doors after more than
+    three years of business on Harvard Square.</q>
+
+bergamot:
+  name: "Bergamot"
+  date: 2020-05-17 20:38:00
+  url: https://www.instagram.com/p/CAP9JkCjZ38/
+  notes: >
+    Bergamot has closed permanantly. FAB Brewing has taken its place.
+
+dante:
+  name: "Restaurant Dante"
+  date: 2020-05-18 14:23:00
+  url: https://www.boston.com/food/restaurants/2020/05/18/dante-cambridge-has-closed
+  notes: >
+    <q>Cambridge has lost one of its coveted outdoor patios with the closure of
+    Restaurant Dante within the Royal Sonesta Boston hotel. Owners and brothers
+    Dante, Damian, and Filippo de Magistris announced Saturday that the Italian
+    restaurant with scenic views of the Charles River is closing after 15 years.
+    </q>
+
+auttomatic:
+  name: "The Automatic"
+  date: 2020-05-19 14:30:00
+  url: https://www.bostonglobe.com/2020/05/15/lifestyle/cambridges-automatic-closes-brooklines-dumpling-daughter-opens-new-takeout-abounds/
+  notes: >
+    <q>Winter was tough. This is the time of year when our sales double because
+    of the patio. We’re missing out on that, and it carries the whole year, so
+    there’s no way we can reopen…</q>
+
+table:
+  name: "The Table at Season to Taste"
+  date: 2020-05-19 14:30:00
+  url: https://www.cambridgetable.com/#about-us
+  notes: >
+    <q>While we are sad to report the permanent closing of The Table, we are
+    delighted to bring you one last chance to take home a taste of The Table…</q>
+
