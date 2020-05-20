@@ -35,13 +35,11 @@ autonomy and diversity.
 
 <table class="blocktable">
   <thead>
-    <th scope="column" width="30%">Name</th>
-    <th scope="column" width="20%">Date</th>
-    <th scope="column" width="10%">URL</th>
-    <th scope="column" width="10%">
+    <th scope="column" width="40%">Name / Date</th> 
+    <th scope="column" width="40%">Notes</th>
+    <th scope="column" width="20%">
       <abbr title="Replaced by">Replacement</abbr>
     </th>
-    <th scope="column" width="30%">Notes</th>
   </thead>
   <tbody>
    {% for item in site.data.companies %}

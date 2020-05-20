@@ -2,32 +2,27 @@
 
 <tr>
   <td>
-    {% if company.name %}
-      {{ company.name }}
-    {% endif %}
-  </td>
-  <td>
-    {% if company.date %}
-      {{ company.date | date: "%B %-d, %Y" | default: "N/A" }}
-    {% endif %}
-  </td>
-  <td>
     {% if company.url %}
       <a href="{{ company.url }}" rel="external">
-        link
+        {{ company.name }}
       </a>
     {% else %}
-     &nbsp;
+      {{ company.name }}
     {% endif %}
-  </td>
-  <td>
-    {% if company.replacement %}
-      {{ company.replacement }}
+
+    {% if company.date %}
+      <br>
+      {{ company.date | date: "%B %-d, %Y" | default: "N/A" }}
     {% endif %}
   </td>
   <td>
     {% if company.notes %}
       {{ company.notes }}
+    {% endif %}
+  </td>
+  <td>
+    {% if company.replacement %}
+      {{ company.replacement }}
     {% endif %}
   </td>
 </tr>
