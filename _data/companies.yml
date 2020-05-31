@@ -1,12 +1,3 @@
-baobao:
-  name: "Toms BaoBao"
-  date: 2020-01-11 14:30:00
-  url: https://www.thecrimson.com/article/2020/1/8/toms-baobao-leaves-square/
-  notes: >
-    <q>Tom’s BaoBao — the fast-casual restaurant serving baozi, or Chinese
-    steamed buns, on Winthrop Street — has closed its doors after more than
-    three years of business on Harvard Square.</q>
-
 citygirl:
   name: "City Girl Cafe"
   date: 2020-04-19 12:00:00
@@ -23,12 +14,12 @@ toraya:
   url: https://toraya.jimdofree.com/
   notes: >
     <q>Established in 1999, Toraya has been open for just over 20 years.
-    Unfortunately, our restaurant is now closed for business. We would like 
-    our customers, vendors, and employees to know that we greatly appreciate 
+    Unfortunately, our restaurant is now closed for business. We would like
+    our customers, vendors, and employees to know that we greatly appreciate
     all of you. Thank you for your generous support throughout the years.</q>
     Note: While not technically in Cambridge or Somerville, Toraya is an honorary
     guest due to its mastery of the field of Sushi and hospitality.
-  
+
 table:
   name: "The Table at Season to Taste"
   date: 2020-05-08 14:30:00
@@ -78,5 +69,14 @@ dante:
     restaurant with scenic views of the Charles River is closing after 15 years.
     </q>
 
-
-
+easternstandard:
+  name: "Eastern Standard"
+  date: 2020-05-27 10:19:00
+  url: https://www.facebook.com/eskdboston/posts/2827670207281684
+  notes: >
+    <q>We are beyond proud to have been a part of ES for nearly its entire
+    duration, and heartbroken at the thought that a short-sighted landlord would
+    rather end this Boston institution than work with an owner as passionate and
+    dedicated to his community, his team and his guests during this
+    unprecedented time in history. Sending so much love to the entire Eastern
+    Standard Kitchen & Drinks family, past and present.</q>
