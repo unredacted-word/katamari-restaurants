@@ -1,6 +1,6 @@
 # Katamari Company
 
-_A summary of the running loss of local restaurants to deep-pocketed private 
+_A summary of the running loss of local restaurants to deep-pocketed private
 equity and national chains._
 
 ## Technics

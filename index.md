@@ -17,18 +17,18 @@ style: |
 
 # Lost Restaurants of Cambridge and Somerville
 
-_A summary of the running loss of local restaurants to deep-pocketed private 
+_A summary of the running loss of local restaurants to deep-pocketed private
 equity and national chains._
 
 When $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
 deep-pocketed private equity firms, transnational corporations, big banks,
-investors and monopolists, we'll quickly see the biggest loss of local 
+investors and monopolists, we'll quickly see the biggest loss of local
 restaurants to national chains.
 
-This will fundamentally reshape the terrain of independently run restaurants in 
-the US and around the globe. The Urban America we know, of heterogeneous small 
-restaurants would look very different after this pandemic is over&mdash;a 
-homogeneous space optimized for massive corporations, and reducing local 
+This will fundamentally reshape the terrain of independently run restaurants in
+the US and around the globe. The Urban America we know, of heterogeneous small
+restaurants would look very different after this pandemic is over&mdash;a
+homogeneous space optimized for massive corporations, and reducing local
 autonomy and diversity.
 
 ## The List
