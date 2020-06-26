@@ -117,3 +117,19 @@ parsnip:
     at this point in time.</q>
     Parsnip first opened in 2015, initially offering New American fare with European
     influences, with the food offerings having Filipino influences of late.
+
+islandcreek:
+  name: "Island Creek Oyster Bar"
+  date: 2020-06-25 10:19:00
+  url: https://www.bostonglobe.com/2020/06/25/business/eastern-standard-kenmore-square-stalwart-may-be-closing-good/
+  notes: >
+    <q>Harker and his partners at Island Creek Oyster Bar also received a default
+    letter, which means that all three spaces are at risk.</q>
+    
+hawthorne:
+  name: "Hawthorne"
+  date: 2020-06-25 10:19:00
+  url: https://www.bostonglobe.com/2020/06/25/business/eastern-standard-kenmore-square-stalwart-may-be-closing-good/
+  notes: >
+    <q>Harker and his partners at Island Creek Oyster Bar also received a default
+    letter, which means that all three spaces are at risk.</q>
