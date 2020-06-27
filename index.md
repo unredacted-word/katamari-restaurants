@@ -21,7 +21,7 @@ _A summary of the running loss of local restaurants to deep-pocketed private
 equity and national chains._
 
 When $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
-deep-pocketed private equity firms, transnational corporations, big banks,
+deep-pocketed private investment firms, transnational corporations, big banks,
 investors and monopolists, we'll quickly see the biggest loss of local
 restaurants to national chains.
 
