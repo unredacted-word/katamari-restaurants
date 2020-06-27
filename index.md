@@ -5,7 +5,7 @@ title: Lost Restaurants of Cambridge and Somerville
 displayTitle: " "
 excerpt: >
   A summary of the running loss of local restaurants to deep-pocketed private 
-  equity and national chains.
+  equity, private investment and national chains.
 style: |
   .blocktable {
     table-layout: fixed;
