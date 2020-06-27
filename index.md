@@ -18,7 +18,7 @@ style: |
 # Lost Restaurants of Cambridge and Somerville
 
 _A summary of the running loss of local restaurants to deep-pocketed private
-equity and national chains._
+equity, private investment, and national chains._
 
 When $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
 deep-pocketed private investment firms, transnational corporations, big banks,
