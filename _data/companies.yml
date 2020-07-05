@@ -107,6 +107,19 @@ abigails:
     in part for its cocktail program built by alumni of B-Side Lounge, a raw bar,
     BBQ, sandwiches, and craft beer.
 
+bellaluna:
+  name: "Bella Luna and The Milky Way"
+  date: 2020-06-18 06:00:00
+  url: https://www.bostonglobe.com/2020/06/17/lifestyle/jamaica-plain-institution-bella-luna-milky-way-close/
+  notes: >
+    <q>After several months of considering all options, we have concluded that
+    we cannot reopen Bella Luna & The Milky Way. We are heartbroken to announce
+    that we will remain closed permanently. The mission of our business is to
+    gather people together in groups, to foster social closeness --the
+    opposite of social distancing.</q>
+    Bella Luna and The Milky Way was a JP institution and space for community,
+    this space will be dearly missed.
+    
 parsnip:
   name: "Parsnip"
   date: 2020-06-24 10:10:00
@@ -135,3 +148,13 @@ hawthorne:
     close the doors of his three properties inside the Hotel Commonwealth, the 
     fates of Eastern Standard, Island Creek Oyster Bar, and the Hawthorne have
     been in question.</q>
+
+    
+leszygomates:
+  name: "Les Zygomates"
+  date: 2020-07-03 08:00:00
+  url: https://bostonrestaurants.blogspot.com/2020/07/les-zygomates-in-bostons-leather.html
+  notes: >
+    Les Zygomates first opened in 1994, offering French fare along with a
+    variety of wines, while also featuring live music including both jazz
+    and blues.
