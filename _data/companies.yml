@@ -149,7 +149,6 @@ hawthorne:
     fates of Eastern Standard, Island Creek Oyster Bar, and the Hawthorne have
     been in question.</q>
 
-    
 leszygomates:
   name: "Les Zygomates"
   date: 2020-07-03 08:00:00
@@ -158,3 +157,14 @@ leszygomates:
     Les Zygomates first opened in 1994, offering French fare along with a
     variety of wines, while also featuring live music including both jazz
     and blues.
+
+flattop:
+  name: "Flat Top Johnny's"
+  date: 2020-07-15 20:08:00
+  url: https://twitter.com/FlatTopJohnnys/status/1283533943044792320/photo/1
+  notes: >
+    The Cambridge pool hall opened in 1993, serving a burger- and sandwich-heavy
+    menu alongside local craft beer and cocktails. 
+    <q>While we thought this day would come years from now, we are here to announce
+    the end of 27 years of pool, cocktails, pinball, food, and fun at Flat Top
+    Johnny's.</q>
