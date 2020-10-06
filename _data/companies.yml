@@ -228,7 +228,17 @@ bullmccabes:
     after twelve years in Union Square, Bull McCabe's will not be reopening. 
     The last six months have taken an incredible toll on all of us, and while 
     the restaurant/bar/music venue industry as a whole has been decimated...</q>
-    
+meimei:
+  name: "Mei Mei"
+  date: 2020-09-30 12:00:00
+  url: https://www.meimeiboston.com/blog/2020/9/30/this-is-not-a-restaurant
+  notes: >
+    <q>Early in the year, we thought we were hitting the pause button. Months
+    later, we still can’t press play, at least not in any financially meaningful
+    way, and our bills have piled up. We’ve scrambled and scrounged, and like so
+    many other restaurants, seem to have only bad options. We can’t just hold our
+    breaths or hibernate; we need to keep moving...</q>
+  
 stoddards:
   name: "Stoddard's Fine Food & Ale"
   date: 2020-10-06 10:00:00
