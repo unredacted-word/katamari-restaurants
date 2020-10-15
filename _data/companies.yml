@@ -108,6 +108,16 @@ abigails:
     in part for its cocktail program built by alumni of B-Side Lounge, a raw bar,
     BBQ, sandwiches, and craft beer.
 
+conorlarkin:
+  name: "Conor Larkin’s Grill & Tap"
+  date: 2020-06-09 10:00:00
+  url: https://www.facebook.com/conorlarkins/posts/10157518692426158?__tn__=-R
+  notes: >
+    <q>I would like to thank the Northeastern University community and all of the 
+    patrons and staff members who made the last 18 years possible. It’s with a heavy 
+    heart that I have to announce that Conor Larkin’s Grill & Tap is closing its doors 
+    for good. Unfortunately, the Covid pandemic was too much to overcome</q>
+
 bellaluna:
   name: "Bella Luna and The Milky Way"
   date: 2020-06-18 06:00:00
@@ -238,6 +248,18 @@ meimei:
     way, and our bills have piled up. We’ve scrambled and scrounged, and like so
     many other restaurants, seem to have only bad options. We can’t just hold our
     breaths or hibernate; we need to keep moving...</q>
+
+chicchick:
+  name: "Chic Chick"
+  date: 2020-10-02 10:00:00
+  url: https://www.facebook.com/chicchick2020
+  notes: >
+    <q>Due to unforeseen circumstances, we have decided to close our shop. 
+    We want to say THANK YOU for the overwhelming support we had from you guys! 
+    It has been a pleasure to serve you! THANK YOU for trusting us and try something new! 
+    We know it’s hard to come out your comfort zone! People thought we were crazy to 
+    open our doors in the midst of a pandemic. We tried, we fought, and we have no regret! 
+    Thank you Boston! Chic Chick Out!</q>
   
 stoddards:
   name: "Stoddard's Fine Food & Ale"
