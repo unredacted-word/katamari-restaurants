@@ -271,3 +271,22 @@ stoddards:
     the office buildings near by, those were closed, then let to reopen at 25% capacity
     and now upwards of 50%...but the area is still desolate! After work and special
     events drove the remaining traffic of which we have NONE!</q>
+
+gaslight:
+  name: "Gaslight"
+  date: 2020-11-20 10:00:00
+  url: https://bostonrestaurants.blogspot.com/2020/11/gaslight-in-bostons-south-end-is-closing.html
+  notes: >
+    <q>The Aquitaine Group is moving off of Harrison Avenue and we are looking forward
+    to new endeavors in 2021. We are bullish on Boston and the restaurant community that
+    serves our city just as we have, for over 25 years and running at Aquitaine Boston,
+    Aquitaine Chestnut Hill and Metropolis Cafe.</q>
+
+moroccan:
+  name: "Moroccan Hospitality Restaurant "
+  date: 2020-11-19 10:00:00
+  url: https://www.wickedlocal.com/story/somerville-journal/2020/11/18/somerville-moroccan-hospitality-couldnt-survive-covid/6340816002/
+  notes: >
+    <q>In March, we had all these reservations, but as soon as COVID hit us, people
+    started canceling them. After March, the business was going down, down, down –
+    sinking little by little – and we never recovered from that.</q>
