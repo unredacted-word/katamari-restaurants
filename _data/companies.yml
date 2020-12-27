@@ -21,14 +21,6 @@ toraya:
     Note: While not technically in Cambridge or Somerville, Toraya is an honorary
     guest due to its mastery of the field of Sushi and hospitality.
 
-table:
-  name: "The Table at Season to Taste"
-  date: 2020-05-08 14:30:00
-  url: https://www.cambridgetable.com/#about-us
-  notes: >
-    <q>While we are sad to report the permanent closing of The Table, we are
-    delighted to bring you one last chance to take home a taste of The Table…</q>
-
 auttomatic:
   name: "The Automatic"
   date: 2020-05-15 14:30:00
