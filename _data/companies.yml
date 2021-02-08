@@ -282,3 +282,22 @@ moroccan:
     <q>In March, we had all these reservations, but as soon as COVID hit us, people
     started canceling them. After March, the business was going down, down, down –
     sinking little by little – and we never recovered from that.</q>
+
+inmanoasis:
+  name: "Inman Oasis"
+  url: https://www.inmanoasis.com/
+  date: 2021-02-01 10:00:00
+  notes: >
+    <q>Due to Covid-19 and other unavoidable factors, Inman Oasis has had to permanently
+    close it's doors in Cambridge. After over 14 1/2 years, we are devastated by this loss.
+    This is an incredible hard time for folks in our industry and we don't know what
+    the future will bring.</q>
+  
+republik:
+  name: "People's Republik Bar"
+  url: https://www.cambridgeday.com/2021/02/06/cantabrigians-are-mourning-a-loss-of-identity-reporting-shutdown-of-peoples-republik-bar/
+  date: 2021-02-06 10:00:00
+  notes: >
+    <q>At this time, for the safety of our staff and guests, we have decided to 
+    close for the time being. We sincerely hope to be back shortly, but some things still
+    remain out of our control. Please keep on eye on our social media for updates.</q>
