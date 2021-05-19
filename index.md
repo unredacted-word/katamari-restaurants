@@ -17,12 +17,13 @@ style: |
 
 # Lost Restaurants of Cambridge and Somerville
 
-_A summary of the running loss of local restaurants._
+_A summary of the running loss of local restaurants due to COVID-19._
 
 When $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
 deep-pocketed private investment firms, transnational corporations, big banks,
-investors and monopolists, we'll quickly see the biggest loss of local
-restaurants and the rise of national chains.
+investors and monopolists, and too-little-too-late to local—independent establishments,
+we'll quickly see the biggest loss of local restaurants and a corresponding
+rise ofnational chains.
 
 This will fundamentally reshape the terrain of independently run restaurants in
 the US and around the globe. The Urban America we know, of heterogeneous small
