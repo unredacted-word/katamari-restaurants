@@ -297,6 +297,7 @@ republik:
   name: "People's Republik Bar"
   url: https://www.cambridgeday.com/2021/02/06/cantabrigians-are-mourning-a-loss-of-identity-reporting-shutdown-of-peoples-republik-bar/
   date: 2021-02-06 10:00:00
+  buyer: "New Republik Bar, Inman Square"
   notes: >
     <q>At this time, for the safety of our staff and guests, we have decided to 
     close for the time being. We sincerely hope to be back shortly, but some things still
@@ -320,3 +321,46 @@ richards:
     <q>"This is unbelievably painful and sucks so damn much!!! But, it is with a heavy heart
     that I announce that Richards is closed. I unconditionally love every one of you that has
     had a meal, a drink and made a memory within these walls. "</q>
+
+thegallows:
+  name: "The Gallows"
+  url: https://bostonrestaurants.blogspot.com/2021/06/the-gallows-in-bostons-south-end-has.html
+  date: 2021-05-06 12:03:00
+  notes: >
+    <q>"The Gallows will always be my first baby + I will forever be grateful. May its memory be a blessing"</q>
+
+highlandfried:
+  name: "Highland Fried"
+  url: https://bostonrestaurants.blogspot.com/2021/09/highland-fried-in-cambridges-inman.html
+  date: 2021-09-10 12:03:00
+  notes: >
+    <q>We are pressing the pause button, we will be taking a much needed break ... while we figure out our next move.</q>
+    
+craigie:
+  name: "Craigie on Main"
+  url: https://bostonrestaurants.blogspot.com/2021/10/craigie-on-main-in-cambridge-is-for-sale.html
+  date: 2021-10-21 12:03:00
+  notes: >
+    <q>"Well friends, it's here. Our last weekend of service before we press 'pause' in August. We'll be using this time to think about what's next here at Craigie, and spend some much-needed time with our families and friends"</q>
+    
+tigermama:
+  name: "Tiger Mama"
+  url: https://bostonrestaurants.blogspot.com/2021/10/tiger-mama-in-bostons-fenway-is-closing.html
+  date: 2021-10-25 12:03:00
+  notes: >
+    <q>Eater Boston is reporting that Tiffani Faison is shutting down Tiger Mama in the Fenway section of Boston this week, with its last official day of service being Friday, October 29, though a Halloween drag brunch will be held on Sunday, October 31.</q>
+  
+theasgard:
+  name: "The Asgard"
+  url: https://bostonrestaurants.blogspot.com/2021/10/the-kinsale-and-asgard-have-closed.html
+  date: 2021-10-28 12:03:00
+  notes: >
+    <q>With the pandemic ongoing, office buildings at low occupancy, chronic labor shortages, challenging governmental directives and an uncertain economy, the decision has been made to permanently close popular Irish pubs The Kinsale and The Asgard.</q>
+
+bisq:
+  name: "BISq"
+  url: https://bostonrestaurants.blogspot.com/2021/11/bisq-in-cambridges-inman-square-has.html
+  date: 2021-11-04 12:03:00
+  notes: >
+    a phone call placed to the Cambridge Street spot confirming this, saying that it has indeed closed down permanently
+
