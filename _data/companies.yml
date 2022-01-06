@@ -7,19 +7,7 @@ citygirl:
     worked for better bosses and they taught us to be the bosses that we are. As
     we end our mutual 23 year stretch we want to give all the love to our
     mentors Merry and Cheryl.</q>
-  replacement: "Tapiocarias House of Flavors"
-
-toraya:
-  name: "Toraya"
-  date: 2020-04-30 12:00:00
-  url: https://toraya.jimdofree.com/
-  notes: >
-    <q>Established in 1999, Toraya has been open for just over 20 years.
-    Unfortunately, our restaurant is now closed for business. We would like
-    our customers, vendors, and employees to know that we greatly appreciate
-    all of you. Thank you for your generous support throughout the years.</q>
-    Note: While not technically in Cambridge or Somerville, Toraya is an honorary
-    guest due to its mastery of the field of Sushi and hospitality.
+  replacement: "Tapiocarias House of Flavors, Zuzu's Petals"
 
 auttomatic:
   name: "The Automatic"
@@ -362,11 +350,25 @@ bisq:
   url: https://bostonrestaurants.blogspot.com/2021/11/bisq-in-cambridges-inman-square-has.html
   date: 2021-11-04 12:03:00
   notes: >
-    a phone call placed to the Cambridge Street spot confirming this, saying that it has indeed closed down permanently
+    "a phone call placed to the Cambridge Street spot confirming this, saying that it has indeed closed down permanently"
 
 loyalnine:
   name: "Loyal Nine"
   url: https://www.instagram.com/p/CXB-wfpLp38/
   date: 2021-12-18 12:03:00
   notes: >
-    "After dinner service on Saturday December 18th, Loyal Nine will close its doors for the last and final time."
+    "<q>After dinner service on Saturday December 18th, Loyal Nine will close its doors for the last and final time.</q>"
+
+gingerman:
+  name: "The Ginger Man"
+  url: https://bostonrestaurants.blogspot.com/2022/01/the-ginger-man-space-in-downtown-boston.html
+  date: 2022-01-05 12:03:00
+  notes: >
+    "<q>A restaurant in downtown Boston that has been known in part for its comfort food and craft beer may be closed permanently, as its space is now on the market.</q>"
+
+sapa:
+  name: "Sa Pa"
+  url: https://bostonrestaurants.blogspot.com/2021/12/sa-pa-in-bostons-financial-district-has.html
+  date: 2021-12-30 12:03:00
+  notes: >
+    "<q>Sa Pa in the city's Financial District has closed, with a picture of the Bedford Street storefront showing a 'for lease' sign in the window. The restaurant, which first opened in 2013, offered banh mi, pho, kimchi, eggrolls, and bowls</q>"
