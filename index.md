@@ -19,17 +19,18 @@ style: |
 
 _A summary of the running loss of local restaurants due to COVID-19._
 
-When $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
+With the COVID-19 pandemic creating hazardous working conditions, inflation decimating
+real wages, and when $2T-$6T of freshly-printed government-guaranteed low-cost credit goes to
 deep-pocketed private investment firms, transnational corporations, big banks,
 investors and monopolists, and too-little-too-late to local—independent establishments,
 we'll quickly see the biggest loss of local restaurants and a corresponding
-rise ofnational chains.
+rise of national chains filling those spaces.
 
 This will fundamentally reshape the terrain of independently run restaurants in
 the US and around the globe. The Urban America we know, of heterogeneous small
 restaurants would look very different after this pandemic is over&mdash;a
 homogeneous space optimized for massive corporations, and reducing local
-autonomy and diversity.
+autonomy and diversity in the process.
 
 ## The List
 
