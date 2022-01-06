@@ -184,7 +184,7 @@ buks:
   url: https://www.boston.com/food/restaurants/2020/08/04/bukowski-tavern-cambridge-closed
   notes: >
     <q>Bukowski Tavern was a successful bar,” but that “the pandemic took it.
-    This is much more than a grind, and far from being a new normal.</q>
+    This is much more than a grind, and far from being a new normal".</q>
 
 friendly:
   name: "The Friendly Toast"
@@ -207,6 +207,7 @@ bullmccabes:
     after twelve years in Union Square, Bull McCabe's will not be reopening. 
     The last six months have taken an incredible toll on all of us, and while 
     the restaurant/bar/music venue industry as a whole has been decimated...</q>
+
 meimei:
   name: "Mei Mei"
   date: 2020-09-30 12:00:00
@@ -275,6 +276,7 @@ republik:
   url: https://www.cambridgeday.com/2021/02/06/cantabrigians-are-mourning-a-loss-of-identity-reporting-shutdown-of-peoples-republik-bar/
   date: 2021-02-06 10:00:00
   buyer: "New Republik Bar, Inman Square"
+  replacement: "New Republik, Inman Square"
   notes: >
     <q>At this time, for the safety of our staff and guests, we have decided to 
     close for the time being. We sincerely hope to be back shortly, but some things still
@@ -295,16 +297,16 @@ richards:
   url: https://bostonrestaurants.blogspot.com/2021/05/richards-in-cambridges-inman-square-has.html
   date: 2021-05-03 12:03:00
   notes: >
-    <q>"This is unbelievably painful and sucks so damn much!!! But, it is with a heavy heart
+    <q>This is unbelievably painful and sucks so damn much!!! But, it is with a heavy heart
     that I announce that Richards is closed. I unconditionally love every one of you that has
-    had a meal, a drink and made a memory within these walls. "</q>
+    had a meal, a drink and made a memory within these walls.</q>
 
 thegallows:
   name: "The Gallows"
   url: https://bostonrestaurants.blogspot.com/2021/06/the-gallows-in-bostons-south-end-has.html
   date: 2021-05-06 12:03:00
   notes: >
-    <q>"The Gallows will always be my first baby + I will forever be grateful. May its memory be a blessing"</q>
+    <q>The Gallows will always be my first baby + I will forever be grateful. May its memory be a blessing</q>
 
 highlandfried:
   name: "Highland Fried"
@@ -318,7 +320,7 @@ craigie:
   url: https://bostonrestaurants.blogspot.com/2021/10/craigie-on-main-in-cambridge-is-for-sale.html
   date: 2021-10-21 12:03:00
   notes: >
-    <q>"Well friends, it's here. Our last weekend of service before we press 'pause' in August. We'll be using this time to think about what's next here at Craigie, and spend some much-needed time with our families and friends"</q>
+    <q>Well friends, it's here. Our last weekend of service before we press 'pause' in August. We'll be using this time to think about what's next here at Craigie, and spend some much-needed time with our families and friends</q>
     
 tigermama:
   name: "Tiger Mama"
@@ -339,21 +341,21 @@ bisq:
   url: https://bostonrestaurants.blogspot.com/2021/11/bisq-in-cambridges-inman-square-has.html
   date: 2021-11-04 12:03:00
   notes: >
-    "a phone call placed to the Cambridge Street spot confirming this, saying that it has indeed closed down permanently"
+    <q>a phone call placed to the Cambridge Street spot confirming this, saying that it has indeed closed down permanently</q>
 
 loyalnine:
   name: "Loyal Nine"
   url: https://www.instagram.com/p/CXB-wfpLp38/
   date: 2021-12-18 12:03:00
   notes: >
-    "<q>After dinner service on Saturday December 18th, Loyal Nine will close its doors for the last and final time.</q>"
+    <q>After dinner service on Saturday December 18th, Loyal Nine will close its doors for the last and final time.</q>
 
 gingerman:
   name: "The Ginger Man"
   url: https://bostonrestaurants.blogspot.com/2022/01/the-ginger-man-space-in-downtown-boston.html
   date: 2022-01-05 12:03:00
   notes: >
-    "<q>A restaurant in downtown Boston that has been known in part for its comfort food and craft beer may be closed permanently, as its space is now on the market.</q>"
+    <q>A restaurant in downtown Boston that has been known in part for its comfort food and craft beer may be closed permanently, as its space is now on the market.</q>
 
 sapa:
   name: "Sa Pa"
