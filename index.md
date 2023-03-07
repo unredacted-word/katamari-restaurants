@@ -32,10 +32,7 @@ restaurants would look very different after this pandemic is over&mdash;a
 homogeneous space optimized for massive corporations, and reducing local
 autonomy and diversity in the process.
 
-<aside>
-  This project has ended as of March 2023 but will continue to be online to showcase
-  what once was.
-</aside>
+This project has ended as of March 2023 but will continue to be online.
 
 ## The List
 
